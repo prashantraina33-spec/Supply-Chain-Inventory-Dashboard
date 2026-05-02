@@ -30,3 +30,21 @@ This Power BI dashboard provides a comprehensive overview of inventory performan
 1. Download `.pbix` file
 2. Open in Power BI Desktop
 3. Explore visuals
+
+
+## ✅ Conclusion
+This Power BI dashboard delivers a comprehensive view 
+of supply chain performance and inventory health. 
+Key takeaways include:
+
+- Pharma holds the highest stock (66K), FMCG the lowest (34K)
+- Delivery delays peak in December (62 days), 
+  requiring seasonal planning
+- Shipment statuses are balanced across all categories
+- Stock vs reorder comparisons help prevent shortages 
+  and overstocking
+
+This interactive single-page report enables supply chain 
+managers to make faster, data-driven decisions — improving 
+delivery performance and inventory efficiency across 
+all product categories.
