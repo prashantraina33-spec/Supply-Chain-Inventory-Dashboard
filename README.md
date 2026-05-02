@@ -1,7 +1,7 @@
 # Supply Chain Inventory Dashboard
 
 ## 📊 Project Overview
-This Power BI dashboard analyzes inventory, stock levels, delays, and shipment status.
+This Power BI dashboard provides a comprehensive overview of inventory performance, stock distribution, and supply chain efficiency. It is designed as a single-page interactive report to present key insights clearly through visualizations
 
 ## 🎯 Objectives
 - Track total stock (254K)
