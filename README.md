@@ -24,7 +24,6 @@ This Power BI dashboard analyzes inventory, stock levels, delays, and shipment s
 
 ## 📂 Files Included
 - Power BI file (.pbix)
-- Dataset
 - Dashboard image
 
 ## 🚀 How to Use
